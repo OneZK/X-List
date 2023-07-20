@@ -1,15 +1,15 @@
-# Personal list of domains that should be blocked
+# # Personal list of domains that should be blocked
 
-# Mobile Tracker Free
+# [ Mobile Tracker Free ]
 mobile-tracker-data.com
 
-# Appsflyer
+# [ Appsflyer ]
 appsflyersdk.com
 
-#  Cellrebel 
+#  [ Cellrebel ]
 metricreceiver.cellrebel.com
 
-# Mouseflow
+# [ Mouseflow ]
 mouseflow.com
 gtm.mouseflow.com
 51-158-227-185.lb.nl-ams.scw.cloud
@@ -17,7 +17,11 @@ tools.mouseflow.com
 109.204:186.35.bc.googleusercontent.com
 browser.sentry-cdn.com
 
-# Mixpanel
+# [ Mixpanel ]
 mixpanel.com
 101.97.96.34.bc.googleusercontent.com
 
+# [ Adalyser ]
+www.adalyser.com
+ec2-34-250-105-220.eu-west-1.compute.amazona
+ws.com
