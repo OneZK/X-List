@@ -1,6 +1,10 @@
 # # Domains that should not be blocked because they break important staff.
 
 # beacons.gcp.gvt2.com.ph
+
+# Needed for cloudflarestatus website to load correctly ]
 static.cloudflareinsights.com
+
+# Required for Google Location Sharing in Maps and Family Link to work correctly
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
