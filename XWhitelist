@@ -22,7 +22,7 @@ connectivitycheck.android.com
 # Google APIs
 googleapis.com
 
-# Facebook : Needed to load properly
+# Meta : Needed to load properly FB & IG
 graph.facebook.com
 b-graph.facebook.com
 api.facebook.com
@@ -35,6 +35,23 @@ snaptu-z.facebook.com
 snaptu-d.facebook.com
 rupload.facebook.com
 z-m-rupload.facebook.com
+mobile.facebook.com
+web.facebook.com
+web-fallback.facebook.com
+m.facebook.com
+b-www.facebook.com
+www.facebook.com
+gateway.instagram.com
+threads.net
+graph.instagram.com
+api.instagram.com
+i.instagram.com
+scontent.cdninstagram.com
+scontent.xx.fbcdn.net
+static.xx.fbcdn.net
+lookaside.facebook.com
+z-m-lookaside.facebook.com
+z-m-graph.facebook.com
 
 # Cloudflare Gateway Dashboard
 one.dash.cloudflare.com
