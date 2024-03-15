@@ -95,6 +95,9 @@ fcm-xmpp.googleapis.com
 android-safebrowsing.google.com
 safebrowsing.google.com
 
+# Family Link Management
+kidsmanagement-pa.googleapis.com
+
 # Other important Google domains
 clients1.google.com
 clients2.google.com
