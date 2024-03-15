@@ -40,7 +40,22 @@ z-m-rupload.facebook.com
 one.dash.cloudflare.com
 dash.cloudflare.com
 
-# FCM or Android Push Notification
+# Google Account Authentication
+accounts.google.com
+accounts.google.ph
+accounts.google.com.ph
+
+# Downloading Apps and Updates from Play Store
+gvt1.com
+ggpht.com
+dl.google.com
+dl-ssl.google.com
+android.clients.google.com
+play.google.com
+googleusercontent.com
+gstatic.com 
+
+# FCM and Android Push Notification
 mtalk.google.com
 mtalk4.google.com
 mtalk-staging.google.com
@@ -56,6 +71,12 @@ alt8-mtalk.google.com
 android.apis.google.com
 device-provisioning.googleapis.com
 firebaseinstallations.googleapis.com
+fcm.googleapis.com
+fcm-xmpp.googleapis.com
+
+# Safebrowsing endpoint used for Google Play Protect
+android-safebrowsing.google.com
+safebrowsing.google.com
 
 # Other important Google domains
 clients1.google.com
@@ -75,3 +96,5 @@ video-stats.l.google.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
+pki.google.com
+
