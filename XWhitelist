@@ -13,6 +13,7 @@ fonts.gstatic.com
 # Youtube history and video
 s.youtube.com
 googlevideo.com
+youtubei.googleapis.com
 
 # Google Connectivity check
 www.google.com
@@ -52,6 +53,7 @@ static.xx.fbcdn.net
 lookaside.facebook.com
 z-m-lookaside.facebook.com
 z-m-graph.facebook.com
+upload.facebook.com
 
 # Cloudflare Gateway Dashboard
 one.dash.cloudflare.com
